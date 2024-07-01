@@ -1,226 +1,62 @@
 {
   "rooms": [
     {
-        "id": "967bb37f-008f-4b39-9864-191016f23bf8",
-        "roomNumber": "21",
-        "price": "449",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "46%",
-        "lux": true,
-        "dates": [
-            "2024-07-11T18:12:07.676Z",
-            "2024-07-25T17:21:17.323Z"
-        ],
-        "maxGuests": 3,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 3,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "59c8c81c-d36f-4585-8a16-5ee752dcd48d",
-        "roomNumber": "64",
-        "price": "2563",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "46%",
-        "lux": false,
-        "dates": [
-            "2024-07-05T11:08:42.958Z",
-            "2024-07-08T04:03:25.351Z"
-        ],
-        "maxGuests": 2,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 4,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "69e9cfd8-fdb9-4801-9001-3c84b2a3821f",
-        "roomNumber": "11",
-        "price": "1363",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "5%",
-        "lux": true,
-        "dates": [
-            "2024-07-03T05:50:33.804Z",
-            "2024-07-04T09:59:09.970Z"
-        ],
-        "maxGuests": 6,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 3,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "c66528aa-f951-4086-882f-c740d1135160",
-        "roomNumber": "40",
-        "price": "9756",
-        "reviews": "7",
+        "id": "6c4e71b2-aedf-449d-b9e1-1d8240130087",
+        "roomNumber": "3",
+        "price": "6957",
+        "reviews": "4",
         "srcArr": [
             "img/rooms-preview/room1.jpg",
             "img/rooms-preview/room4.jpg",
             "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room2.jpg"
         ],
-        "rating": "46%",
+        "rating": "60%",
         "lux": true,
         "dates": [
-            "2024-07-06T23:13:59.350Z",
-            "2024-07-13T04:49:24.013Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 0,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "7122318c-80c5-4b0f-8096-6a5d653db264",
-        "roomNumber": "33",
-        "price": "6563",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "49%",
-        "lux": false,
-        "dates": [
-            "2024-07-15T05:44:36.272Z",
-            "2024-07-27T03:12:36.013Z"
+            "2024-07-03T03:29:29.444Z",
+            "2024-07-06T15:42:41.969Z"
         ],
         "maxGuests": 4,
         "checkboxes": {
             "smoking": true,
             "pet": true,
-            "guests": true
+            "guests": false
         },
         "accessibilityCheckboxes": {
-            "wideCoridor": false,
+            "wideCoridor": true,
             "helper": false
         },
         "additionalDropdown": {
-            "bedroomCount": 2,
+            "bedroomCount": 0,
             "bedsCount": 4,
-            "bathRoomsCount": 0
+            "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
             "breakfast": true,
-            "table": false,
+            "table": true,
             "hchair": true,
             "badbyBad": false,
-            "tv": true,
+            "tv": false,
             "shampoo": true
         }
     },
     {
-        "id": "57f879dd-1917-48c0-a9cd-52bd9175e78c",
-        "roomNumber": "51",
-        "price": "2978",
-        "reviews": "10",
+        "id": "69be1ea7-2517-4a84-bbac-02907d83c3e9",
+        "roomNumber": "18",
+        "price": "3222",
+        "reviews": "7",
         "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
             "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
+            "img/rooms-preview/room3.jpg",
+            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room4.jpg"
         ],
-        "rating": "38%",
+        "rating": "65%",
         "lux": true,
         "dates": [
-            "2024-07-06T09:15:25.666Z",
-            "2024-07-14T19:59:44.275Z"
+            "2024-07-11T04:34:17.281Z",
+            "2024-07-16T05:14:02.022Z"
         ],
         "maxGuests": 6,
         "checkboxes": {
@@ -233,12 +69,53 @@
             "helper": false
         },
         "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 3,
-            "bathRoomsCount": 2
+            "bedroomCount": 1,
+            "bedsCount": 2,
+            "bathRoomsCount": 0
         },
         "additionalCheckboxes": {
             "breakfast": false,
+            "table": false,
+            "hchair": false,
+            "badbyBad": true,
+            "tv": true,
+            "shampoo": true
+        }
+    },
+    {
+        "id": "87af0a5e-ab4c-4b44-8ccc-695e5cf12e5f",
+        "roomNumber": "7",
+        "price": "5190",
+        "reviews": "3",
+        "srcArr": [
+            "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room2.jpg",
+            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room3.jpg"
+        ],
+        "rating": "82%",
+        "lux": false,
+        "dates": [
+            "2024-07-07T00:55:57.468Z",
+            "2024-07-17T11:45:57.012Z"
+        ],
+        "maxGuests": 8,
+        "checkboxes": {
+            "smoking": false,
+            "pet": true,
+            "guests": true
+        },
+        "accessibilityCheckboxes": {
+            "wideCoridor": false,
+            "helper": true
+        },
+        "additionalDropdown": {
+            "bedroomCount": 2,
+            "bedsCount": 2,
+            "bathRoomsCount": 1
+        },
+        "additionalCheckboxes": {
+            "breakfast": true,
             "table": false,
             "hchair": false,
             "badbyBad": false,
@@ -247,21 +124,62 @@
         }
     },
     {
-        "id": "200ea9a9-7217-46bc-9646-eeaa32d9e896",
-        "roomNumber": "21",
-        "price": "384",
-        "reviews": "8",
+        "id": "5e48055e-2417-49a7-a3c9-4438aad5ffe4",
+        "roomNumber": "19",
+        "price": "5496",
+        "reviews": "6",
         "srcArr": [
             "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room4.jpg"
         ],
-        "rating": "20%",
+        "rating": "43%",
         "lux": false,
         "dates": [
-            "2024-07-15T23:03:02.778Z",
-            "2024-07-25T22:15:33.740Z"
+            "2024-07-02T13:59:33.889Z",
+            "2024-07-07T01:41:33.578Z"
+        ],
+        "maxGuests": 3,
+        "checkboxes": {
+            "smoking": false,
+            "pet": true,
+            "guests": true
+        },
+        "accessibilityCheckboxes": {
+            "wideCoridor": true,
+            "helper": true
+        },
+        "additionalDropdown": {
+            "bedroomCount": 1,
+            "bedsCount": 0,
+            "bathRoomsCount": 1
+        },
+        "additionalCheckboxes": {
+            "breakfast": false,
+            "table": false,
+            "hchair": false,
+            "badbyBad": true,
+            "tv": false,
+            "shampoo": true
+        }
+    },
+    {
+        "id": "382624bb-3c42-4ef1-8921-49f8f5c6b80c",
+        "roomNumber": "22",
+        "price": "285",
+        "reviews": "4",
+        "srcArr": [
+            "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room3.jpg",
+            "img/rooms-preview/room2.jpg",
+            "img/rooms-preview/room1.jpg"
+        ],
+        "rating": "55%",
+        "lux": false,
+        "dates": [
+            "2024-07-12T15:32:14.410Z",
+            "2024-07-21T14:42:09.591Z"
         ],
         "maxGuests": 9,
         "checkboxes": {
@@ -271,47 +189,49 @@
         },
         "accessibilityCheckboxes": {
             "wideCoridor": true,
-            "helper": true
+            "helper": false
         },
         "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 2,
+            "bedroomCount": 1,
+            "bedsCount": 4,
             "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
             "breakfast": false,
-            "table": false,
+            "table": true,
             "hchair": true,
-            "badbyBad": true,
-            "tv": false,
+            "badbyBad": false,
+            "tv": true,
             "shampoo": true
         }
-    },
+    }
+],
+  "fullRooms": [
     {
-        "id": "b192d376-9f1b-4d0d-9c37-45fb16048dfa",
-        "roomNumber": "85",
-        "price": "9411",
-        "reviews": "9",
+        "id": "6c4e71b2-aedf-449d-b9e1-1d8240130087",
+        "roomNumber": "3",
+        "price": "6957",
+        "reviews": "4",
         "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
             "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room2.jpg"
         ],
-        "rating": "36%",
-        "lux": false,
+        "rating": "60%",
+        "lux": true,
         "dates": [
-            "2024-07-10T07:05:23.334Z",
-            "2024-07-21T10:04:57.127Z"
+            "2024-07-03T03:29:29.444Z",
+            "2024-07-06T15:42:41.969Z"
         ],
-        "maxGuests": 9,
+        "maxGuests": 4,
         "checkboxes": {
             "smoking": true,
-            "pet": false,
-            "guests": true
+            "pet": true,
+            "guests": false
         },
         "accessibilityCheckboxes": {
-            "wideCoridor": false,
+            "wideCoridor": true,
             "helper": false
         },
         "additionalDropdown": {
@@ -320,135 +240,294 @@
             "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
+            "breakfast": true,
+            "table": true,
             "hchair": true,
-            "badbyBad": true,
-            "tv": true,
+            "badbyBad": false,
+            "tv": false,
             "shampoo": true
-        }
+        },
+        "imgArr": [
+            "img/rooms-image/room-image1.jpg",
+            "img/rooms-image/room-image3.jpg",
+            "img/rooms-image/room-image2.jpg"
+        ],
+        "features": [
+            {
+                "icon": "insert_emoticon",
+                "title": "Комфорт",
+                "text": "Шумопоглощающие стены"
+            },
+            {
+                "icon": "shopping_bag",
+                "title": "Хранение багажа",
+                "text": "К номеру прилагается бесплатная камера хранения"
+            }
+        ],
+        "feedback": [
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Василий Петров",
+                "date": "Месяц назад",
+                "text": "Завтраки в номер советую заказать.",
+                "likes": "8"
+            },
+            {
+                "image": "img/profile-pictures/author-2.jpg",
+                "name": "Патриция Стёклышкова",
+                "date": "Неделю назад",
+                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
+                "likes": "2"
+            },
+            {
+                "image": "img/profile-pictures/author-2.jpg",
+                "name": "Патрисия Стёклышкова",
+                "date": "Неделю назад",
+                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
+                "likes": "2"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Настя Смирнова",
+                "date": "2 года назад",
+                "text": "Обслуживание на высоте!",
+                "likes": "9"
+            }
+        ],
+        "votes": 73,
+        "totalRating": 50
     },
     {
-        "id": "2aca53da-00ed-4545-98ec-c9eae6eec244",
-        "roomNumber": "8",
-        "price": "5680",
-        "reviews": "9",
+        "id": "69be1ea7-2517-4a84-bbac-02907d83c3e9",
+        "roomNumber": "18",
+        "price": "3222",
+        "reviews": "7",
         "srcArr": [
             "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
             "img/rooms-preview/room3.jpg",
+            "img/rooms-preview/room1.jpg",
             "img/rooms-preview/room4.jpg"
         ],
-        "rating": "26%",
-        "lux": false,
+        "rating": "65%",
+        "lux": true,
         "dates": [
-            "2024-07-06T04:30:35.096Z",
-            "2024-07-14T02:02:17.146Z"
+            "2024-07-11T04:34:17.281Z",
+            "2024-07-16T05:14:02.022Z"
         ],
-        "maxGuests": 1,
+        "maxGuests": 6,
         "checkboxes": {
-            "smoking": true,
+            "smoking": false,
             "pet": false,
             "guests": true
         },
         "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 3,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "b2391f8b-dbf8-4c0a-80f2-c4ce1fa070c5",
-        "roomNumber": "28",
-        "price": "281",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "35%",
-        "lux": true,
-        "dates": [
-            "2024-07-04T11:23:52.099Z",
-            "2024-07-11T21:44:51.822Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 2,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    }
-],
-  "fullRooms": [
-    {
-        "id": "967bb37f-008f-4b39-9864-191016f23bf8",
-        "roomNumber": "21",
-        "price": "449",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "46%",
-        "lux": true,
-        "dates": [
-            "2024-07-11T18:12:07.676Z",
-            "2024-07-25T17:21:17.323Z"
-        ],
-        "maxGuests": 3,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
+            "wideCoridor": true,
             "helper": false
         },
         "additionalDropdown": {
             "bedroomCount": 1,
-            "bedsCount": 3,
+            "bedsCount": 2,
+            "bathRoomsCount": 0
+        },
+        "additionalCheckboxes": {
+            "breakfast": false,
+            "table": false,
+            "hchair": false,
+            "badbyBad": true,
+            "tv": true,
+            "shampoo": true
+        },
+        "imgArr": [
+            "img/rooms-image/room-image3.jpg",
+            "img/rooms-image/room-image2.jpg",
+            "img/rooms-image/room-image1.jpg"
+        ],
+        "features": [
+            {
+                "icon": "landscape",
+                "title": "Вид на горы",
+                "text": "Номер с живописным видом на горы"
+            }
+        ],
+        "feedback": [
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Иван Петров",
+                "date": "Год назад",
+                "text": "Всё аккуратно, чисто.",
+                "likes": "1"
+            },
+            {
+                "image": "img/profile-pictures/author-2.jpg",
+                "name": "Патрисия Стёклышкова",
+                "date": "Неделю назад",
+                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
+                "likes": "2"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Петр Петров",
+                "date": "3 года назад",
+                "text": "Чисто...",
+                "likes": "1"
+            },
+            {
+                "image": "img/profile-pictures/author-1.jpg",
+                "name": "Мурад Сарафанов",
+                "date": "5 дней назад",
+                "text": "Великолепный матрас на кровати в основной спальне! А пуфик вообще потрясающий. И стены, действительно, шумоподавляющие. Выкрикивал комплименты повару — никто не жаловался из соседей.",
+                "likes": "11"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Настя Смирнова",
+                "date": "2 года назад",
+                "text": "Обслуживание на высоте!",
+                "likes": "9"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Василий Петров",
+                "date": "Месяц назад",
+                "text": "Завтраки в номер советую заказать.",
+                "likes": "8"
+            },
+            {
+                "image": "img/profile-pictures/author-2.jpg",
+                "name": "Патриция Стёклышкова",
+                "date": "Неделю назад",
+                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
+                "likes": "2"
+            }
+        ],
+        "votes": 32,
+        "totalRating": 25
+    },
+    {
+        "id": "87af0a5e-ab4c-4b44-8ccc-695e5cf12e5f",
+        "roomNumber": "7",
+        "price": "5190",
+        "reviews": "3",
+        "srcArr": [
+            "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room2.jpg",
+            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room3.jpg"
+        ],
+        "rating": "82%",
+        "lux": false,
+        "dates": [
+            "2024-07-07T00:55:57.468Z",
+            "2024-07-17T11:45:57.012Z"
+        ],
+        "maxGuests": 8,
+        "checkboxes": {
+            "smoking": false,
+            "pet": true,
+            "guests": true
+        },
+        "accessibilityCheckboxes": {
+            "wideCoridor": false,
+            "helper": true
+        },
+        "additionalDropdown": {
+            "bedroomCount": 2,
+            "bedsCount": 2,
+            "bathRoomsCount": 1
+        },
+        "additionalCheckboxes": {
+            "breakfast": true,
+            "table": false,
+            "hchair": false,
+            "badbyBad": false,
+            "tv": false,
+            "shampoo": false
+        },
+        "imgArr": [
+            "img/rooms-image/room-image3.jpg",
+            "img/rooms-image/room-image2.jpg",
+            "img/rooms-image/room-image1.jpg"
+        ],
+        "features": [
+            {
+                "icon": "shopping_bag",
+                "title": "Хранение багажа",
+                "text": "К номеру прилагается бесплатная камера хранения"
+            },
+            {
+                "icon": "landscape",
+                "title": "Вид на горы",
+                "text": "Номер с живописным видом на горы"
+            },
+            {
+                "icon": "sailing",
+                "title": "Вид на море",
+                "text": "Номер с живописным видом на море"
+            }
+        ],
+        "feedback": [
+            {
+                "image": "img/profile-pictures/author-1.jpg",
+                "name": "Мурад Сарафанов",
+                "date": "5 дней назад",
+                "text": "Великолепный матрас на кровати в основной спальне! А пуфик вообще потрясающий. И стены, действительно, шумоподавляющие. Выкрикивал комплименты повару — никто не жаловался из соседей.",
+                "likes": "11"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Василий Петров",
+                "date": "Месяц назад",
+                "text": "Завтраки в номер советую заказать.",
+                "likes": "8"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Настя Смирнова",
+                "date": "2 года назад",
+                "text": "Обслуживание на высоте!",
+                "likes": "9"
+            }
+        ],
+        "votes": 28,
+        "totalRating": 50
+    },
+    {
+        "id": "5e48055e-2417-49a7-a3c9-4438aad5ffe4",
+        "roomNumber": "19",
+        "price": "5496",
+        "reviews": "6",
+        "srcArr": [
+            "img/rooms-preview/room2.jpg",
+            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room3.jpg",
+            "img/rooms-preview/room4.jpg"
+        ],
+        "rating": "43%",
+        "lux": false,
+        "dates": [
+            "2024-07-02T13:59:33.889Z",
+            "2024-07-07T01:41:33.578Z"
+        ],
+        "maxGuests": 3,
+        "checkboxes": {
+            "smoking": false,
+            "pet": true,
+            "guests": true
+        },
+        "accessibilityCheckboxes": {
+            "wideCoridor": true,
+            "helper": true
+        },
+        "additionalDropdown": {
+            "bedroomCount": 1,
+            "bedsCount": 0,
             "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
             "breakfast": false,
-            "table": true,
+            "table": false,
             "hchair": false,
-            "badbyBad": false,
+            "badbyBad": true,
             "tv": false,
             "shampoo": true
         },
@@ -459,67 +538,107 @@
         ],
         "features": [
             {
-                "icon": "lock",
-                "title": "Сейф",
-                "text": "Номер оснащён сейфом высокой системы безопасности"
+                "icon": "sailing",
+                "title": "Вид на море",
+                "text": "Номер с живописным видом на море"
+            },
+            {
+                "icon": "wifi",
+                "title": "Быстрый Wi-Fi",
+                "text": "Номер оснащен выделенной скоростной беспроводной точкой доступа"
             }
         ],
         "feedback": [
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Василий Петров",
+                "date": "Месяц назад",
+                "text": "Завтраки в номер советую заказать.",
+                "likes": "8"
+            },
+            {
+                "image": "img/profile-pictures/author-2.jpg",
+                "name": "Патриция Стёклышкова",
+                "date": "Неделю назад",
+                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
+                "likes": "2"
+            },
             {
                 "image": "img/profile-pictures/no-profile-picture.png",
                 "name": "Настя Смирнова",
                 "date": "2 года назад",
                 "text": "Обслуживание на высоте!",
                 "likes": "9"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Василий Смирнов",
+                "date": "Месяц назад",
+                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
+                "likes": "8"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Петр Петров",
+                "date": "3 года назад",
+                "text": "Чисто...",
+                "likes": "1"
+            },
+            {
+                "image": "img/profile-pictures/no-profile-picture.png",
+                "name": "Наталья Смирнова",
+                "date": "2 года назад",
+                "text": "Обслуживание на высоте!",
+                "likes": "9"
             }
         ],
-        "votes": 65,
+        "votes": 23,
         "totalRating": 25
     },
     {
-        "id": "59c8c81c-d36f-4585-8a16-5ee752dcd48d",
-        "roomNumber": "64",
-        "price": "2563",
-        "reviews": "3",
+        "id": "382624bb-3c42-4ef1-8921-49f8f5c6b80c",
+        "roomNumber": "22",
+        "price": "285",
+        "reviews": "4",
         "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room3.jpg",
+            "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room1.jpg"
         ],
-        "rating": "46%",
+        "rating": "55%",
         "lux": false,
         "dates": [
-            "2024-07-05T11:08:42.958Z",
-            "2024-07-08T04:03:25.351Z"
+            "2024-07-12T15:32:14.410Z",
+            "2024-07-21T14:42:09.591Z"
         ],
-        "maxGuests": 2,
+        "maxGuests": 9,
         "checkboxes": {
             "smoking": true,
-            "pet": true,
+            "pet": false,
             "guests": false
         },
         "accessibilityCheckboxes": {
             "wideCoridor": true,
-            "helper": true
+            "helper": false
         },
         "additionalDropdown": {
             "bedroomCount": 1,
             "bedsCount": 4,
-            "bathRoomsCount": 0
+            "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
             "breakfast": false,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
+            "table": true,
+            "hchair": true,
+            "badbyBad": false,
+            "tv": true,
             "shampoo": true
         },
         "imgArr": [
-            "img/rooms-image/room-image2.jpg",
             "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image3.jpg"
+            "img/rooms-image/room-image3.jpg",
+            "img/rooms-image/room-image2.jpg"
         ],
         "features": [
             {
@@ -531,136 +650,6 @@
         "feedback": [
             {
                 "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            }
-        ],
-        "votes": 9,
-        "totalRating": 75
-    },
-    {
-        "id": "69e9cfd8-fdb9-4801-9001-3c84b2a3821f",
-        "roomNumber": "11",
-        "price": "1363",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "5%",
-        "lux": true,
-        "dates": [
-            "2024-07-03T05:50:33.804Z",
-            "2024-07-04T09:59:09.970Z"
-        ],
-        "maxGuests": 6,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 3,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        },
-        "imgArr": [
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image2.jpg",
-            "img/rooms-image/room-image3.jpg"
-        ],
-        "features": [
-            {
-                "icon": "lock",
-                "title": "Сейф",
-                "text": "Номер оснащён сейфом высокой системы безопасности"
-            },
-            {
-                "icon": "heat_pump",
-                "title": "Прохлада",
-                "text": "Номер оборудован кондиционером"
-            },
-            {
-                "icon": "sailing",
-                "title": "Вид на море",
-                "text": "Номер с живописным видом на море"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Настя Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
                 "name": "Петр Петров",
                 "date": "3 года назад",
                 "text": "Чисто...",
@@ -675,88 +664,10 @@
             },
             {
                 "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            }
-        ],
-        "votes": 85,
-        "totalRating": 75
-    },
-    {
-        "id": "c66528aa-f951-4086-882f-c740d1135160",
-        "roomNumber": "40",
-        "price": "9756",
-        "reviews": "7",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "46%",
-        "lux": true,
-        "dates": [
-            "2024-07-06T23:13:59.350Z",
-            "2024-07-13T04:49:24.013Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 0,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        },
-        "imgArr": [
-            "img/rooms-image/room-image3.jpg",
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image2.jpg"
-        ],
-        "features": [
-            {
-                "icon": "sailing",
-                "title": "Вид на море",
-                "text": "Номер с живописным видом на море"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
                 "name": "Наталья Смирнова",
                 "date": "2 года назад",
                 "text": "Обслуживание на высоте!",
                 "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/author-1.jpg",
-                "name": "Мурад Сарафанов",
-                "date": "5 дней назад",
-                "text": "Великолепный матрас на кровати в основной спальне! А пуфик вообще потрясающий. И стены, действительно, шумоподавляющие. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
             },
             {
                 "image": "img/profile-pictures/no-profile-picture.png",
@@ -764,769 +675,10 @@
                 "date": "Год назад",
                 "text": "Всё аккуратно, чисто.",
                 "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
             }
         ],
-        "votes": 10,
+        "votes": 38,
         "totalRating": 50
-    },
-    {
-        "id": "7122318c-80c5-4b0f-8096-6a5d653db264",
-        "roomNumber": "33",
-        "price": "6563",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "49%",
-        "lux": false,
-        "dates": [
-            "2024-07-15T05:44:36.272Z",
-            "2024-07-27T03:12:36.013Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        },
-        "imgArr": [
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image2.jpg",
-            "img/rooms-image/room-image3.jpg"
-        ],
-        "features": [
-            {
-                "icon": "lock",
-                "title": "Сейф",
-                "text": "Номер оснащён сейфом высокой системы безопасности"
-            },
-            {
-                "icon": "heat_pump",
-                "title": "Прохлада",
-                "text": "Номер оборудован кондиционером"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патрисия Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Настя Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            }
-        ],
-        "votes": 21,
-        "totalRating": 75
-    },
-    {
-        "id": "57f879dd-1917-48c0-a9cd-52bd9175e78c",
-        "roomNumber": "51",
-        "price": "2978",
-        "reviews": "10",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "38%",
-        "lux": true,
-        "dates": [
-            "2024-07-06T09:15:25.666Z",
-            "2024-07-14T19:59:44.275Z"
-        ],
-        "maxGuests": 6,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 3,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": false
-        },
-        "imgArr": [
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image2.jpg",
-            "img/rooms-image/room-image3.jpg"
-        ],
-        "features": [
-            {
-                "icon": "wifi",
-                "title": "Быстрый Wi-Fi",
-                "text": "Номер оснащен выделенной скоростной беспроводной точкой доступа"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/author-1.jpg",
-                "name": "Мурад Сарафанов",
-                "date": "5 дней назад",
-                "text": "Великолепный матрас на кровати в основной спальне! А пуфик вообще потрясающий. И стены, действительно, шумоподавляющие. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патрисия Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Настя Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            }
-        ],
-        "votes": 64,
-        "totalRating": 25
-    },
-    {
-        "id": "200ea9a9-7217-46bc-9646-eeaa32d9e896",
-        "roomNumber": "21",
-        "price": "384",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "20%",
-        "lux": false,
-        "dates": [
-            "2024-07-15T23:03:02.778Z",
-            "2024-07-25T22:15:33.740Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 2,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": true
-        },
-        "imgArr": [
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image3.jpg",
-            "img/rooms-image/room-image2.jpg"
-        ],
-        "features": [
-            {
-                "icon": "landscape",
-                "title": "Вид на горы",
-                "text": "Номер с живописным видом на горы"
-            },
-            {
-                "icon": "wifi",
-                "title": "Быстрый Wi-Fi",
-                "text": "Номер оснащен выделенной скоростной беспроводной точкой доступа"
-            },
-            {
-                "icon": "sailing",
-                "title": "Вид на море",
-                "text": "Номер с живописным видом на море"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патрисия Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            }
-        ],
-        "votes": 87,
-        "totalRating": 25
-    },
-    {
-        "id": "b192d376-9f1b-4d0d-9c37-45fb16048dfa",
-        "roomNumber": "85",
-        "price": "9411",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "36%",
-        "lux": false,
-        "dates": [
-            "2024-07-10T07:05:23.334Z",
-            "2024-07-21T10:04:57.127Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 4,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        },
-        "imgArr": [
-            "img/rooms-image/room-image2.jpg",
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image3.jpg"
-        ],
-        "features": [
-            {
-                "icon": "wifi",
-                "title": "Быстрый Wi-Fi",
-                "text": "Номер оснащен выделенной скоростной беспроводной точкой доступа"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/author-1.jpg",
-                "name": "Мурад Сарафанов",
-                "date": "5 дней назад",
-                "text": "Великолепный матрас на кровати в основной спальне! А пуфик вообще потрясающий. И стены, действительно, шумоподавляющие. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патрисия Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Настя Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            }
-        ],
-        "votes": 2,
-        "totalRating": 25
-    },
-    {
-        "id": "2aca53da-00ed-4545-98ec-c9eae6eec244",
-        "roomNumber": "8",
-        "price": "5680",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "26%",
-        "lux": false,
-        "dates": [
-            "2024-07-06T04:30:35.096Z",
-            "2024-07-14T02:02:17.146Z"
-        ],
-        "maxGuests": 1,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 3,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        },
-        "imgArr": [
-            "img/rooms-image/room-image3.jpg",
-            "img/rooms-image/room-image2.jpg",
-            "img/rooms-image/room-image1.jpg"
-        ],
-        "features": [
-            {
-                "icon": "landscape",
-                "title": "Вид на горы",
-                "text": "Номер с живописным видом на горы"
-            },
-            {
-                "icon": "location_city",
-                "title": "Удобство",
-                "text": "Окно в каждой из спален"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Иван Петров",
-                "date": "Год назад",
-                "text": "Всё аккуратно, чисто.",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/author-1.jpg",
-                "name": "Мурад Сарафанов",
-                "date": "5 дней назад",
-                "text": "Великолепный матрас на кровати в основной спальне! А пуфик вообще потрясающий. И стены, действительно, шумоподавляющие. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Настя Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            }
-        ],
-        "votes": 50,
-        "totalRating": 75
-    },
-    {
-        "id": "b2391f8b-dbf8-4c0a-80f2-c4ce1fa070c5",
-        "roomNumber": "28",
-        "price": "281",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "35%",
-        "lux": true,
-        "dates": [
-            "2024-07-04T11:23:52.099Z",
-            "2024-07-11T21:44:51.822Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 2,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        },
-        "imgArr": [
-            "img/rooms-image/room-image2.jpg",
-            "img/rooms-image/room-image1.jpg",
-            "img/rooms-image/room-image3.jpg"
-        ],
-        "features": [
-            {
-                "icon": "shopping_bag",
-                "title": "Хранение багажа",
-                "text": "К номеру прилагается бесплатная камера хранения"
-            },
-            {
-                "icon": "sailing",
-                "title": "Вид на море",
-                "text": "Номер с живописным видом на море"
-            }
-        ],
-        "feedback": [
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Мурад Сарафан",
-                "date": "15 дней назад",
-                "text": "Спасибо. Выкрикивал комплименты повару — никто не жаловался из соседей.",
-                "likes": "11"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Настя Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патрисия Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Петров",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать.",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Василий Смирнов",
-                "date": "Месяц назад",
-                "text": "Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "8"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Петр Петров",
-                "date": "3 года назад",
-                "text": "Чисто...",
-                "likes": "1"
-            },
-            {
-                "image": "img/profile-pictures/author-2.jpg",
-                "name": "Патриция Стёклышкова",
-                "date": "Неделю назад",
-                "text": "Обслуживание на высоте! Всё аккуратно, чисто. Завтраки в номер советую заказать, каждый день новое блюдо и десерт как комплимент",
-                "likes": "2"
-            },
-            {
-                "image": "img/profile-pictures/no-profile-picture.png",
-                "name": "Наталья Смирнова",
-                "date": "2 года назад",
-                "text": "Обслуживание на высоте!",
-                "likes": "9"
-            }
-        ],
-        "votes": 34,
-        "totalRating": 25
     }
 ],
 }
