@@ -1,395 +1,26 @@
 {
   "rooms": [
     {
-        "id": "484fd569-ea2b-42ee-ac55-992ac5161408",
-        "roomNumber": "13",
-        "price": "3687",
-        "reviews": "0",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "72%",
-        "lux": true,
-        "dates": [
-            "2024-07-09T10:10:49.793Z",
-            "2024-07-12T20:47:31.359Z"
-        ],
-        "maxGuests": 3,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "987f8986-6904-416d-9b3e-abc7fcd99035",
-        "roomNumber": "15",
-        "price": "9111",
-        "reviews": "10",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "21%",
-        "lux": true,
-        "dates": [
-            "2024-07-04T03:17:21.771Z",
-            "2024-07-10T17:51:48.758Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 2,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "6334a430-519a-4754-a7f1-8287dbd766be",
-        "roomNumber": "75",
-        "price": "5956",
-        "reviews": "4",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "94%",
-        "lux": true,
-        "dates": [
-            "2024-07-04T00:21:18.153Z",
-            "2024-07-12T10:50:29.346Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 5,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "f697e99e-51b9-4a67-94dc-918e8b05810b",
-        "roomNumber": "22",
-        "price": "7624",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "90%",
-        "lux": true,
-        "dates": [
-            "2024-07-14T10:15:36.385Z",
-            "2024-07-27T12:38:21.879Z"
-        ],
-        "maxGuests": 10,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 5,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "92156e2a-7a54-43cb-825e-9fca69eeb556",
-        "roomNumber": "85",
-        "price": "3446",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "28%",
-        "lux": false,
-        "dates": [
-            "2024-07-14T11:02:22.084Z",
-            "2024-07-26T18:30:53.061Z"
-        ],
-        "maxGuests": 3,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 1,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "65b0a931-eb7c-44da-a912-b08d16525cb3",
-        "roomNumber": "100",
-        "price": "6490",
-        "reviews": "4",
+        "id": "e45645e3-d154-49cc-abde-f5d44938c63c",
+        "roomNumber": "65",
+        "price": "1713",
+        "reviews": "5",
         "srcArr": [
             "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room4.jpg",
             "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room1.jpg"
         ],
-        "rating": "4%",
+        "rating": "62%",
         "lux": true,
         "dates": [
-            "2024-07-04T17:17:57.206Z",
-            "2024-07-14T20:05:13.972Z"
-        ],
-        "maxGuests": 1,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 2,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "c12ef7c6-5880-4eeb-b03c-f7c744545f2a",
-        "roomNumber": "15",
-        "price": "3173",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "13%",
-        "lux": false,
-        "dates": [
-            "2024-07-09T04:00:56.338Z",
-            "2024-07-13T11:11:49.402Z"
-        ],
-        "maxGuests": 10,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 1,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "7da4e9b4-e253-48f7-9f13-183e22ef05b4",
-        "roomNumber": "100",
-        "price": "6232",
-        "reviews": "0",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "59%",
-        "lux": false,
-        "dates": [
-            "2024-07-04T02:34:18.018Z",
-            "2024-07-14T00:00:08.049Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 0,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "f02c5274-c9fe-48cf-bba3-883e9aa9c636",
-        "roomNumber": "48",
-        "price": "7192",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "84%",
-        "lux": false,
-        "dates": [
-            "2024-07-05T10:27:50.340Z",
-            "2024-07-19T05:35:24.966Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 1,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "1b84c839-2eed-4a5d-93fd-f2efea659e66",
-        "roomNumber": "11",
-        "price": "940",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "49%",
-        "lux": false,
-        "dates": [
-            "2024-07-13T04:50:46.524Z",
-            "2024-07-15T12:25:39.718Z"
+            "2024-07-15T20:30:09.578Z",
+            "2024-07-26T20:13:10.667Z"
         ],
         "maxGuests": 7,
         "checkboxes": {
-            "smoking": false,
-            "pet": true,
+            "smoking": true,
+            "pet": false,
             "guests": false
         },
         "accessibilityCheckboxes": {
@@ -398,130 +29,48 @@
         },
         "additionalDropdown": {
             "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
+            "bedsCount": 5,
+            "bathRoomsCount": 0
         },
         "additionalCheckboxes": {
             "breakfast": true,
             "table": true,
             "hchair": true,
-            "badbyBad": false,
-            "tv": false,
+            "badbyBad": true,
+            "tv": true,
             "shampoo": false
         }
     },
     {
-        "id": "ec95be15-1e32-4636-9a2a-9d03af81f389",
-        "roomNumber": "18",
-        "price": "948",
-        "reviews": "8",
+        "id": "16cd2407-9313-4a0d-bdc6-f72bebd517c2",
+        "roomNumber": "66",
+        "price": "3510",
+        "reviews": "5",
         "srcArr": [
-            "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "58%",
-        "lux": false,
-        "dates": [
-            "2024-07-03T08:16:50.458Z",
-            "2024-07-16T10:23:51.236Z"
-        ],
-        "maxGuests": 6,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 0,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "9acab7d5-43c3-4735-8a91-6fdea8be8843",
-        "roomNumber": "23",
-        "price": "7179",
-        "reviews": "9",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "6%",
-        "lux": false,
-        "dates": [
-            "2024-07-13T02:04:56.104Z",
-            "2024-07-23T08:25:31.596Z"
-        ],
-        "maxGuests": 8,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "4c7ca995-72b8-4ca7-b3a7-c505218c4a61",
-        "roomNumber": "25",
-        "price": "3699",
-        "reviews": "4",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg"
         ],
         "rating": "25%",
         "lux": true,
         "dates": [
-            "2024-07-12T18:14:02.829Z",
-            "2024-07-26T12:44:29.830Z"
+            "2024-07-10T17:55:16.127Z",
+            "2024-07-15T15:57:36.877Z"
         ],
-        "maxGuests": 3,
+        "maxGuests": 9,
         "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
+            "smoking": true,
+            "pet": false,
+            "guests": true
         },
         "accessibilityCheckboxes": {
-            "wideCoridor": false,
+            "wideCoridor": true,
             "helper": false
         },
         "additionalDropdown": {
             "bedroomCount": 0,
-            "bedsCount": 3,
+            "bedsCount": 0,
             "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
@@ -534,162 +83,39 @@
         }
     },
     {
-        "id": "ebfe00bc-1368-453f-96e4-cca0b1a6b057",
-        "roomNumber": "30",
-        "price": "6419",
-        "reviews": "8",
+        "id": "f7a4f2be-da6b-40b7-89f9-492bbfa19cc7",
+        "roomNumber": "2",
+        "price": "7872",
+        "reviews": "5",
         "srcArr": [
-            "img/rooms-preview/room1.jpg",
             "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room1.jpg",
             "img/rooms-preview/room2.jpg"
         ],
-        "rating": "88%",
+        "rating": "38%",
         "lux": false,
         "dates": [
-            "2024-07-15T18:29:24.071Z",
-            "2024-07-29T22:48:41.389Z"
+            "2024-07-06T08:42:25.318Z",
+            "2024-07-11T02:48:04.999Z"
         ],
-        "maxGuests": 4,
+        "maxGuests": 6,
         "checkboxes": {
             "smoking": false,
-            "pet": true,
+            "pet": false,
             "guests": false
         },
         "accessibilityCheckboxes": {
             "wideCoridor": true,
             "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 2,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "9a53c105-0ffa-42d4-8cb6-ae598e81431e",
-        "roomNumber": "94",
-        "price": "4670",
-        "reviews": "0",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "28%",
-        "lux": false,
-        "dates": [
-            "2024-07-04T12:17:23.067Z",
-            "2024-07-15T16:58:48.159Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 2,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "974457a2-90f6-41a6-80e2-6b95ee0bd31f",
-        "roomNumber": "84",
-        "price": "2591",
-        "reviews": "6",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "34%",
-        "lux": false,
-        "dates": [
-            "2024-07-13T13:58:10.219Z",
-            "2024-07-19T03:39:37.156Z"
-        ],
-        "maxGuests": 10,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 0,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "28bc5c3e-a8c9-433d-ac4f-5f693ec38d58",
-        "roomNumber": "6",
-        "price": "8075",
-        "reviews": "6",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "63%",
-        "lux": false,
-        "dates": [
-            "2024-07-02T07:26:26.419Z",
-            "2024-07-06T19:05:00.253Z"
-        ],
-        "maxGuests": 8,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
         },
         "additionalDropdown": {
             "bedroomCount": 0,
-            "bedsCount": 3,
+            "bedsCount": 1,
             "bathRoomsCount": 0
         },
         "additionalCheckboxes": {
-            "breakfast": true,
+            "breakfast": false,
             "table": true,
             "hchair": false,
             "badbyBad": true,
@@ -698,103 +124,62 @@
         }
     },
     {
-        "id": "ec910270-3276-45db-95c0-fa50f599589a",
-        "roomNumber": "41",
-        "price": "7570",
-        "reviews": "1",
+        "id": "3285612a-0c7e-4c11-b092-648d8ace0b6e",
+        "roomNumber": "83",
+        "price": "5396",
+        "reviews": "7",
         "srcArr": [
             "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "4%",
-        "lux": false,
-        "dates": [
-            "2024-07-06T02:01:43.895Z",
-            "2024-07-15T16:46:03.853Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 1,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "a2d10dcf-1530-454c-b776-0be501f2c06f",
-        "roomNumber": "2",
-        "price": "8255",
-        "reviews": "0",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room4.jpg"
         ],
-        "rating": "22%",
-        "lux": true,
+        "rating": "30%",
+        "lux": false,
         "dates": [
-            "2024-07-09T06:49:21.942Z",
-            "2024-07-14T00:49:27.303Z"
+            "2024-07-02T05:56:45.172Z",
+            "2024-07-10T18:33:27.268Z"
         ],
-        "maxGuests": 5,
+        "maxGuests": 4,
         "checkboxes": {
             "smoking": false,
-            "pet": false,
-            "guests": false
+            "pet": true,
+            "guests": true
         },
         "accessibilityCheckboxes": {
             "wideCoridor": true,
             "helper": true
         },
         "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 1,
-            "bathRoomsCount": 1
+            "bedroomCount": 2,
+            "bedsCount": 3,
+            "bathRoomsCount": 2
         },
         "additionalCheckboxes": {
-            "breakfast": false,
+            "breakfast": true,
             "table": true,
-            "hchair": true,
-            "badbyBad": true,
+            "hchair": false,
+            "badbyBad": false,
             "tv": true,
             "shampoo": true
         }
     },
     {
-        "id": "091a864c-115d-4363-a7d7-d36506c1f48a",
-        "roomNumber": "3",
-        "price": "7534",
-        "reviews": "10",
+        "id": "79bdf3d7-52e6-4f0e-81f3-841f957560fc",
+        "roomNumber": "1",
+        "price": "5687",
+        "reviews": "5",
         "srcArr": [
             "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room4.jpg",
             "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room1.jpg"
         ],
-        "rating": "80%",
+        "rating": "67%",
         "lux": true,
         "dates": [
-            "2024-07-09T13:02:36.390Z",
-            "2024-07-18T05:15:40.920Z"
+            "2024-07-15T01:00:31.945Z",
+            "2024-07-21T14:43:14.181Z"
         ],
         "maxGuests": 4,
         "checkboxes": {
@@ -808,8 +193,90 @@
         },
         "additionalDropdown": {
             "bedroomCount": 1,
-            "bedsCount": 0,
-            "bathRoomsCount": 1
+            "bedsCount": 2,
+            "bathRoomsCount": 2
+        },
+        "additionalCheckboxes": {
+            "breakfast": true,
+            "table": false,
+            "hchair": false,
+            "badbyBad": false,
+            "tv": true,
+            "shampoo": true
+        }
+    },
+    {
+        "id": "4ae68d76-2d33-4045-aff8-81e9265f7b02",
+        "roomNumber": "25",
+        "price": "2814",
+        "reviews": "1",
+        "srcArr": [
+            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room4.jpg",
+            "img/rooms-preview/room2.jpg",
+            "img/rooms-preview/room3.jpg"
+        ],
+        "rating": "12%",
+        "lux": false,
+        "dates": [
+            "2024-07-14T23:17:32.319Z",
+            "2024-07-25T00:27:45.979Z"
+        ],
+        "maxGuests": 4,
+        "checkboxes": {
+            "smoking": true,
+            "pet": false,
+            "guests": true
+        },
+        "accessibilityCheckboxes": {
+            "wideCoridor": false,
+            "helper": true
+        },
+        "additionalDropdown": {
+            "bedroomCount": 2,
+            "bedsCount": 3,
+            "bathRoomsCount": 0
+        },
+        "additionalCheckboxes": {
+            "breakfast": false,
+            "table": true,
+            "hchair": true,
+            "badbyBad": true,
+            "tv": true,
+            "shampoo": true
+        }
+    },
+    {
+        "id": "e5774203-c6a0-42d3-9e25-0492b895cb60",
+        "roomNumber": "7",
+        "price": "8217",
+        "reviews": "9",
+        "srcArr": [
+            "img/rooms-preview/room1.jpg",
+            "img/rooms-preview/room3.jpg",
+            "img/rooms-preview/room2.jpg",
+            "img/rooms-preview/room4.jpg"
+        ],
+        "rating": "61%",
+        "lux": true,
+        "dates": [
+            "2024-07-01T21:50:42.507Z",
+            "2024-07-13T19:05:47.402Z"
+        ],
+        "maxGuests": 4,
+        "checkboxes": {
+            "smoking": true,
+            "pet": false,
+            "guests": false
+        },
+        "accessibilityCheckboxes": {
+            "wideCoridor": false,
+            "helper": false
+        },
+        "additionalDropdown": {
+            "bedroomCount": 2,
+            "bedsCount": 5,
+            "bathRoomsCount": 2
         },
         "additionalCheckboxes": {
             "breakfast": false,
@@ -821,105 +288,23 @@
         }
     },
     {
-        "id": "51f3ffda-9335-44c0-8e63-0166754f6aad",
-        "roomNumber": "51",
-        "price": "4088",
+        "id": "f93a3658-023d-451e-88a7-642cbf4237a7",
+        "roomNumber": "42",
+        "price": "9727",
         "reviews": "8",
         "srcArr": [
             "img/rooms-preview/room1.jpg",
             "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room3.jpg",
             "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "55%",
-        "lux": false,
-        "dates": [
-            "2024-07-03T01:52:35.696Z",
-            "2024-07-09T14:55:24.777Z"
-        ],
-        "maxGuests": 7,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 2,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "9b31f2aa-3370-47f5-840e-ce9770a19255",
-        "roomNumber": "69",
-        "price": "9089",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
         ],
         "rating": "96%",
         "lux": false,
         "dates": [
-            "2024-07-06T04:14:50.083Z",
-            "2024-07-16T09:45:31.557Z"
+            "2024-07-14T22:39:02.840Z",
+            "2024-07-28T06:30:23.290Z"
         ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 5,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "1b84d120-6998-455f-9fe8-4eecde3dbf3f",
-        "roomNumber": "77",
-        "price": "782",
-        "reviews": "6",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "52%",
-        "lux": true,
-        "dates": [
-            "2024-07-11T08:16:50.775Z",
-            "2024-07-20T02:06:25.077Z"
-        ],
-        "maxGuests": 10,
+        "maxGuests": 4,
         "checkboxes": {
             "smoking": false,
             "pet": true,
@@ -927,946 +312,44 @@
         },
         "accessibilityCheckboxes": {
             "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 0,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "401f198f-6d16-49fd-942c-aaa6d53759f1",
-        "roomNumber": "61",
-        "price": "2657",
-        "reviews": "7",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "35%",
-        "lux": false,
-        "dates": [
-            "2024-07-08T05:31:58.980Z",
-            "2024-07-14T11:38:46.871Z"
-        ],
-        "maxGuests": 6,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 1,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "9a7af483-1235-450d-87cb-dd8e381a84d6",
-        "roomNumber": "81",
-        "price": "6763",
-        "reviews": "6",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "97%",
-        "lux": true,
-        "dates": [
-            "2024-07-16T09:56:47.276Z",
-            "2024-07-21T09:51:10.699Z"
-        ],
-        "maxGuests": 6,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "3a126601-45f4-4b4a-9a76-c2e8d965cfb6",
-        "roomNumber": "78",
-        "price": "5206",
-        "reviews": "4",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "78%",
-        "lux": false,
-        "dates": [
-            "2024-07-08T15:15:51.159Z",
-            "2024-07-17T20:28:26.471Z"
-        ],
-        "maxGuests": 7,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 3,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "3f832cda-426c-45e3-ac30-a4458b86065d",
-        "roomNumber": "35",
-        "price": "7397",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "68%",
-        "lux": true,
-        "dates": [
-            "2024-07-05T12:33:43.371Z",
-            "2024-07-07T22:57:05.589Z"
-        ],
-        "maxGuests": 8,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 1,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "0d1f9851-cd3c-4bb9-a140-5d612ba82221",
-        "roomNumber": "11",
-        "price": "2049",
-        "reviews": "6",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "83%",
-        "lux": true,
-        "dates": [
-            "2024-07-14T22:57:45.847Z",
-            "2024-07-28T19:50:16.120Z"
-        ],
-        "maxGuests": 1,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 5,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "c94d040d-d544-4b58-92d4-055ee74a98af",
-        "roomNumber": "9",
-        "price": "2007",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "99%",
-        "lux": true,
-        "dates": [
-            "2024-07-06T04:54:43.851Z",
-            "2024-07-17T18:35:29.874Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
             "helper": false
         },
         "additionalDropdown": {
             "bedroomCount": 0,
-            "bedsCount": 1,
+            "bedsCount": 2,
             "bathRoomsCount": 2
         },
         "additionalCheckboxes": {
-            "breakfast": false,
+            "breakfast": true,
             "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "29a75a55-b2dd-4d4b-bfe7-6135a6313447",
-        "roomNumber": "13",
-        "price": "7595",
-        "reviews": "5",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "70%",
-        "lux": false,
-        "dates": [
-            "2024-07-12T15:39:34.686Z",
-            "2024-07-27T12:06:22.885Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 5,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
             "hchair": false,
-            "badbyBad": false,
-            "tv": true,
+            "badbyBad": true,
+            "tv": false,
             "shampoo": true
         }
     },
     {
-        "id": "ca52c422-72ed-4410-a7bc-54118a17ff3f",
-        "roomNumber": "82",
-        "price": "4707",
+        "id": "25016532-1b5a-4bb0-a5ec-ce9040428c8c",
+        "roomNumber": "11",
+        "price": "6984",
         "reviews": "9",
         "srcArr": [
-            "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "17%",
-        "lux": true,
-        "dates": [
-            "2024-07-09T09:50:33.256Z",
-            "2024-07-23T12:04:07.909Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 3,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "a60ee191-ce96-468b-8e5f-07e6105dfad6",
-        "roomNumber": "9",
-        "price": "9031",
-        "reviews": "2",
-        "srcArr": [
             "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "70%",
-        "lux": true,
-        "dates": [
-            "2024-07-15T11:10:46.226Z",
-            "2024-07-28T07:46:58.673Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 1,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "5fb8e172-e75c-424d-8867-0709ae413011",
-        "roomNumber": "16",
-        "price": "1662",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "21%",
-        "lux": false,
-        "dates": [
-            "2024-07-02T19:45:51.106Z",
-            "2024-07-07T04:33:24.928Z"
-        ],
-        "maxGuests": 1,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 5,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "a6645155-56c0-40c0-b0bc-d657b1e358d0",
-        "roomNumber": "8",
-        "price": "6311",
-        "reviews": "7",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
             "img/rooms-preview/room2.jpg",
             "img/rooms-preview/room1.jpg"
         ],
-        "rating": "88%",
+        "rating": "16%",
         "lux": false,
         "dates": [
-            "2024-07-12T01:37:19.036Z",
-            "2024-07-22T08:52:43.620Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "ab22dddb-a026-4555-aa0d-3614cf7a695e",
-        "roomNumber": "95",
-        "price": "8326",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "80%",
-        "lux": true,
-        "dates": [
-            "2024-07-09T03:46:33.001Z",
-            "2024-07-20T19:39:33.899Z"
-        ],
-        "maxGuests": 7,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 1,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "b3855c24-903d-47c5-bf65-d886424d044a",
-        "roomNumber": "83",
-        "price": "6501",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "77%",
-        "lux": true,
-        "dates": [
-            "2024-07-07T11:33:48.816Z",
-            "2024-07-18T23:08:46.220Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 3,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "e536cf92-906c-4ef6-85ed-36b168b4ffab",
-        "roomNumber": "4",
-        "price": "2953",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "81%",
-        "lux": true,
-        "dates": [
-            "2024-07-10T09:24:43.418Z",
-            "2024-07-20T09:52:43.902Z"
-        ],
-        "maxGuests": 8,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 3,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": false,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "597ca4b1-aa3f-4a87-8712-ddcdae6eaa27",
-        "roomNumber": "58",
-        "price": "1954",
-        "reviews": "10",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "94%",
-        "lux": false,
-        "dates": [
-            "2024-07-05T15:27:33.464Z",
-            "2024-07-17T17:06:20.780Z"
-        ],
-        "maxGuests": 9,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 5,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "99c9f49c-770e-4ca9-a49b-41e276b95cdf",
-        "roomNumber": "19",
-        "price": "9154",
-        "reviews": "2",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg"
-        ],
-        "rating": "29%",
-        "lux": false,
-        "dates": [
-            "2024-07-09T00:55:55.165Z",
-            "2024-07-14T09:49:35.824Z"
-        ],
-        "maxGuests": 1,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "ebd8a77d-57c4-4ddc-ab8a-6fc4ab838aea",
-        "roomNumber": "44",
-        "price": "319",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "48%",
-        "lux": true,
-        "dates": [
-            "2024-07-12T18:48:39.151Z",
-            "2024-07-22T13:17:08.487Z"
-        ],
-        "maxGuests": 5,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "2fc91338-568a-47b2-b23b-23380ee7da86",
-        "roomNumber": "10",
-        "price": "9730",
-        "reviews": "7",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "24%",
-        "lux": false,
-        "dates": [
-            "2024-07-04T08:50:58.699Z",
-            "2024-07-12T06:47:51.086Z"
+            "2024-07-04T06:06:23.002Z",
+            "2024-07-18T09:37:40.296Z"
         ],
         "maxGuests": 9,
         "checkboxes": {
             "smoking": false,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 3,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "6fe34c6a-19b2-453d-b276-997db7df5902",
-        "roomNumber": "9",
-        "price": "4671",
-        "reviews": "5",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "91%",
-        "lux": false,
-        "dates": [
-            "2024-07-12T01:51:19.936Z",
-            "2024-07-17T14:19:54.198Z"
-        ],
-        "maxGuests": 4,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "935639a9-dc5c-4974-9f1a-648ae37dadc9",
-        "roomNumber": "8",
-        "price": "9822",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "46%",
-        "lux": true,
-        "dates": [
-            "2024-07-04T20:38:39.057Z",
-            "2024-07-17T13:28:58.040Z"
-        ],
-        "maxGuests": 3,
-        "checkboxes": {
-            "smoking": false,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 1,
-            "bedsCount": 4,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "001279ef-21de-4628-b8ee-d30574038a2b",
-        "roomNumber": "18",
-        "price": "3461",
-        "reviews": "3",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "37%",
-        "lux": false,
-        "dates": [
-            "2024-07-03T11:40:07.750Z",
-            "2024-07-18T08:42:19.912Z"
-        ],
-        "maxGuests": 8,
-        "checkboxes": {
-            "smoking": true,
             "pet": true,
             "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "534af798-e986-488f-9abd-81ae93b5d2de",
-        "roomNumber": "11",
-        "price": "4660",
-        "reviews": "10",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "76%",
-        "lux": true,
-        "dates": [
-            "2024-07-08T21:57:07.544Z",
-            "2024-07-20T05:02:16.768Z"
-        ],
-        "maxGuests": 2,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 0,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "e4fafc6f-12e3-4b07-81e2-78d81665b564",
-        "roomNumber": "59",
-        "price": "794",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "39%",
-        "lux": false,
-        "dates": [
-            "2024-07-11T14:51:32.691Z",
-            "2024-07-24T12:09:50.824Z"
-        ],
-        "maxGuests": 10,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
         },
         "accessibilityCheckboxes": {
             "wideCoridor": true,
@@ -1874,48 +357,7 @@
         },
         "additionalDropdown": {
             "bedroomCount": 1,
-            "bedsCount": 3,
-            "bathRoomsCount": 0
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": false,
-            "hchair": true,
-            "badbyBad": false,
-            "tv": true,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "3a3dee17-8fa8-428f-86ae-21c9c679ba28",
-        "roomNumber": "91",
-        "price": "3731",
-        "reviews": "8",
-        "srcArr": [
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "15%",
-        "lux": false,
-        "dates": [
-            "2024-07-03T11:27:19.839Z",
-            "2024-07-09T05:34:46.367Z"
-        ],
-        "maxGuests": 3,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 0,
+            "bedsCount": 1,
             "bathRoomsCount": 1
         },
         "additionalCheckboxes": {
@@ -1923,129 +365,6 @@
             "table": false,
             "hchair": false,
             "badbyBad": false,
-            "tv": false,
-            "shampoo": false
-        }
-    },
-    {
-        "id": "062bb5e7-946b-431f-ade5-caafc364a638",
-        "roomNumber": "74",
-        "price": "7529",
-        "reviews": "5",
-        "srcArr": [
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room2.jpg"
-        ],
-        "rating": "89%",
-        "lux": false,
-        "dates": [
-            "2024-07-12T18:08:20.619Z",
-            "2024-07-19T20:43:50.691Z"
-        ],
-        "maxGuests": 2,
-        "checkboxes": {
-            "smoking": true,
-            "pet": true,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 4,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": true,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "9a220c3b-5e09-413e-9f21-e28e711042aa",
-        "roomNumber": "24",
-        "price": "65",
-        "reviews": "1",
-        "srcArr": [
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room4.jpg",
-            "img/rooms-preview/room3.jpg"
-        ],
-        "rating": "37%",
-        "lux": false,
-        "dates": [
-            "2024-07-13T18:52:47.996Z",
-            "2024-07-19T08:36:31.119Z"
-        ],
-        "maxGuests": 2,
-        "checkboxes": {
-            "smoking": true,
-            "pet": false,
-            "guests": false
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": true,
-            "helper": false
-        },
-        "additionalDropdown": {
-            "bedroomCount": 0,
-            "bedsCount": 4,
-            "bathRoomsCount": 2
-        },
-        "additionalCheckboxes": {
-            "breakfast": false,
-            "table": true,
-            "hchair": true,
-            "badbyBad": true,
-            "tv": false,
-            "shampoo": true
-        }
-    },
-    {
-        "id": "d72a06b9-e3c9-4d8b-9e7f-60f9738338b8",
-        "roomNumber": "57",
-        "price": "4541",
-        "reviews": "4",
-        "srcArr": [
-            "img/rooms-preview/room1.jpg",
-            "img/rooms-preview/room2.jpg",
-            "img/rooms-preview/room3.jpg",
-            "img/rooms-preview/room4.jpg"
-        ],
-        "rating": "76%",
-        "lux": true,
-        "dates": [
-            "2024-07-16T00:10:22.864Z",
-            "2024-07-30T01:05:23.331Z"
-        ],
-        "maxGuests": 2,
-        "checkboxes": {
-            "smoking": false,
-            "pet": true,
-            "guests": true
-        },
-        "accessibilityCheckboxes": {
-            "wideCoridor": false,
-            "helper": true
-        },
-        "additionalDropdown": {
-            "bedroomCount": 2,
-            "bedsCount": 5,
-            "bathRoomsCount": 1
-        },
-        "additionalCheckboxes": {
-            "breakfast": true,
-            "table": false,
-            "hchair": false,
-            "badbyBad": true,
             "tv": false,
             "shampoo": false
         }
